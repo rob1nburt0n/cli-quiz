@@ -1,0 +1,37 @@
+body {
+	font-family: Arial;
+}
+
+
+
+.mainbody {
+	width: 65%;
+	float: left;
+	
+	
+}
+
+section {
+	display: block;
+	font-family: Tahoma;
+	
+}
+
+.float_clear {
+	clear: both;
+	font-size: 80%;
+	padding-top: 20px;
+}
+
+.sidebar {
+	width: 30%;
+	display: block;
+	float: right;
+	
+}
+
+
+
+span.highlight {
+	background-color: hotpink;
+}
