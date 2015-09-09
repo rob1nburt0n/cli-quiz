@@ -1,4 +1,7 @@
 # cli-quiz
+#clone
+git clone https://github.com/rob1nburt0n/cli-quiz.git
+
 This was one of our first quizes at NSS. 
 #Instructions
  Part I
